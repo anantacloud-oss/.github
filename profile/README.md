@@ -158,6 +158,6 @@ To simplify cloud adoption, optimize infrastructure for peak performance and cos
 ---
 
 <div align="center">
-  <p><strong>@ 2025 Ananta Cloud. All rights reserved.</strong></p>
+  <p><strong>@ 2026 Ananta Cloud. All rights reserved.</strong></p>
   <p>Empowering businesses through cloud excellence and digital innovation.</p>
 </div>
