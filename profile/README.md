@@ -1,8 +1,8 @@
 # Ananta Cloud
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7a96ceb3-7f16-41d2-962f-f8df71431cb1" alt="Ananta Cloud Logo" width="800" height="400"/>
-  
+  <img alt="Ananta Cloud Offerings" src="https://github.com/user-attachments/assets/51376bf4-661b-4884-9247-655ab872441e" width="800" height="400" />
+
   <h3>Accelerating Digital Transformation Through Cloud Excellence</h3>
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=hello@anantacloud.com)
